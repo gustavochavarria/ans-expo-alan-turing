@@ -16,12 +16,12 @@ const container = {
 const LIST = [
   `He learned to read by himself in 3 weeks.`,
   `When was little he liked numbers and puzzles.`,
-  //   `Drive 90Km to school (so you don't miss your first day of school).`,
-  //   `The fact was so surprising that a local newspaper told the story of him.`,
-  //   `Alan's best friend (Christopher) died very young of Tuberculosis.`,
-  //   `Alan believed that our brains (and those of animals) are complex "machines", which could be replicated (Artificial Intelligence)`,
-  //   `He is the father of computing. Since he created the foundations of computing.`,
-  //   `Break Enigma Code.`,
+  `He Drove 90Km to school (so he doesn't miss his first day of school).`,
+  `The fact was so surprising that a local newspaper told the story of him.`,
+  `Alan's best friend (Christopher) died very young of Tuberculosis.`,
+  `Alan believed that our brains (and those of animals) are complex "machines", which could be replicated (Artificial Intelligence)`,
+  `He is the father of computing. Since he created the foundations of computing.`,
+  `Break Enigma Code.`,
 ];
 
 export default function Curiosities() {

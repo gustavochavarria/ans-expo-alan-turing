@@ -145,7 +145,7 @@ export default function Home() {
               <ListItem>{`He learned to read by himself in 3 weeks.`}</ListItem>
               <ListItem>{`When was little he liked numbers and puzzles.`}</ListItem>
               <ListItem>
-                {`Drive 90Km to school (so you don't miss your first day of school).`}
+                {`He Drove 90Km to school (so he doesn't miss his first day of school).`}
               </ListItem>
               <ListItem>
                 {`The fact was so surprising that a local newspaper told the story
