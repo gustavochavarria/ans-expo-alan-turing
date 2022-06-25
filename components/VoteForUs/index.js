@@ -93,14 +93,14 @@ export default function WithSpeechBubbles() {
         >
           <Testimonial>
             <TestimonialContent>
-              <TestimonialHeading>Iduvina</TestimonialHeading>
+              <TestimonialHeading>Iduvina Maradiaga</TestimonialHeading>
               {/* <TestimonialText>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor
                 neque sed imperdiet nibh lectus feugiat nunc sem.
               </TestimonialText> */}
             </TestimonialContent>
             <TestimonialAvatar
-              src={""}
+              src={"/assets/iduvina.jpeg"}
               //   name={"Jane Cooper"}
               //   title={"CEO at ABC Corporation"}
             />
