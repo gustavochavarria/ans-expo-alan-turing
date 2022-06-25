@@ -30,17 +30,17 @@ export default function Gallery() {
   useEffect(() => {
     const id = window.setInterval(() => {
       setCounter((counter) => {
-        if (counter >= LIST.length) {
-          counter = 0;
-        } else {
+        if (counter < LIST.length) {
           counter = counter + 1;
+        } else {
+          counter = 0;
         }
 
         return counter;
       });
     }, 5000);
 
-    return () => id;
+    return () => clearInterval(id);
   }, []);
 
   console.log(counter, LIST[counter]);

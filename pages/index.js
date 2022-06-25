@@ -139,10 +139,8 @@ export default function Home() {
           </Box>
 
           <UnorderedList color="white">
-            <ListItem>
-              He learned to read by himself in 3 weeks. -Since he was little he
-              liked numbers and puzzles.
-            </ListItem>
+            <ListItem>He learned to read by himself in 3 weeks.</ListItem>
+            <ListItem>When was little he liked numbers and puzzles.</ListItem>
             <ListItem>
               Drive 90Km to school (so you don't miss your first day of school).
             </ListItem>
