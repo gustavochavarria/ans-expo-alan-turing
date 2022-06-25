@@ -142,18 +142,18 @@ export default function Home() {
             <ListItem>He learned to read by himself in 3 weeks.</ListItem>
             <ListItem>When was little he liked numbers and puzzles.</ListItem>
             <ListItem>
-              Drive 90Km to school (so you don't miss your first day of school).
+              {`Drive 90Km to school (so you don't miss your first day of school).`}
             </ListItem>
             <ListItem>
               The fact was so surprising that a local newspaper told the story
               of him.
             </ListItem>
             <ListItem>
-              Alan's best friend (Christopher) died very young of Tuberculosis.
+              {`Alan's best friend (Christopher) died very young of Tuberculosis.`}
             </ListItem>
             <ListItem>
-              Alan believed that our brains (and those of animals) are complex
-              "machines", which could be replicated (Artificial Intelligence)
+              {`Alan believed that our brains (and those of animals) are complex
+              "machines", which could be replicated (Artificial Intelligence)`}
             </ListItem>
             <ListItem>
               He is the father of computing. Since he created the foundations of
