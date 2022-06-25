@@ -14,6 +14,9 @@ import {
   UnorderedList,
 } from "@chakra-ui/react";
 
+import VoteForUs from "../components/VoteForUs";
+import Footer from "../components/Footer";
+
 export default function Home() {
   return (
     <Box bg="black">
@@ -161,7 +164,14 @@ export default function Home() {
             <ListItem>Break Enigma Code.</ListItem>
           </UnorderedList>
         </Box>
+
+        <Flex justifyContent="center">
+          <VoteForUs />
+        </Flex>
       </Container>
+      <Box>
+        <Footer />
+      </Box>
     </Box>
   );
 }
