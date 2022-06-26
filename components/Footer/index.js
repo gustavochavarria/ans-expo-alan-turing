@@ -73,7 +73,7 @@ export default function SmallCentered() {
           <Link href={"/"}>Home</Link>
           <Link href={"/gallery"}>Gallery</Link>
           <Link href={"/curiosities"}>Curiosities</Link>
-          <Link href={"#"}>Contact</Link>
+          <Link href={"https://gustavochavarria.com"}>Contact</Link>
         </Stack>
       </Container>
 
